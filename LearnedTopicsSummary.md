@@ -12,7 +12,7 @@
 Making Lists is super easy!
 
 - do it
-- just like
+* just like
 - this!
 
 1. Or this
