@@ -1,11 +1,5 @@
-## :trophy: Growth Mindset 
+### this is a title
 
-Growth mindset to me is the ability to get back up when knocked down from a difficult challenge, and continue to try and overcome it
+# This is another title
 
-### I can keep a positive attitude and a growth mindset by:
-- Know that everyone has to start somewhere
-- Stay positive in my abilites and keep trying
-- Ask for help, reach out to others to expand my own point of view
-
-
-
+welcome to my readme page
