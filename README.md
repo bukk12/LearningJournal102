@@ -1,4 +1,4 @@
-## Growth Mindset :trophy:
+## :trophy: Growth Mindset 
 
 Growth mindset to me is the ability to get back up when knocked down from a difficult challenge, and continue to try and overcome it
 
