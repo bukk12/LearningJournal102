@@ -2,4 +2,4 @@
 
 Table of Contents
 
-- [learning Journal from Class one] (learnedTopicsSummary01.md)
+- [learning Journal from Class one] (LearnedTopicsSummary01.md)
