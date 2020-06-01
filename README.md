@@ -12,7 +12,7 @@ Growth mindset to me is the ability to get back up when knocked down from a diff
 
 
 
-Table of Contents
+### Table of Contents
 
 - [Learning Journal from Class one](/Reading01.md)
 - [Learning Journal from Class two](/Reading02.md)
