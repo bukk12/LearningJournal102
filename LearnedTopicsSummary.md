@@ -15,5 +15,5 @@
 * just like
 - this!
 
-1. Or this
-2. for numbered lsits
+1. Or try this
+2. for numbered lists
