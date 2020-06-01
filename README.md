@@ -2,4 +2,5 @@
 
 Table of Contents
 
-- [learning Journal from Class one](/Reading01.md)
+- [Learning Journal from Class one](/Reading01.md)
+- [Learning Journal from Class two](/Reading02.md)
