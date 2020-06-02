@@ -25,7 +25,7 @@ Companies
 ```
 cite chpt 18 HTML & CSS by duckett
 ```
-
+------------------------------------------------------------------------------------------
 - What are your visitors wanting to acieve while visiting your site?
 - Are they going to be familiar with your service/product?
 - What makes your product special?
