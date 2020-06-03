@@ -18,3 +18,4 @@ Growth mindset to me is the ability to get back up when knocked down from a diff
 - [Learning Journal from Class two](/Reading02.md)
 - [Learning Journal from Class three](https://bukk12.github.io/Lab03-repo/)
 - [Learning Journal from Class four](/Reading04.md)
+- [Learning Journal Wireframe from Class four](/Wireframe.md)
