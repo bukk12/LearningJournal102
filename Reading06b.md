@@ -17,3 +17,7 @@ computers use a binary number system that is made up of 0 and 1.
 this number system is what the computer uses to communicate to process information
 
 computers use circuits to relay the binary input to quicky get an output
+
+Computers use physical parts called hardware that support different jobs like processing, audio for output, or keyboards for input.
+
+Computers also use unseen parts called software that tells the computer what to do with each part and how they should communicate with each other with the input the computer receives
