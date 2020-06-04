@@ -21,3 +21,4 @@ Growth mindset to me is the ability to get back up when knocked down from a diff
 - [Learning Journal Wireframe from Class four](/WireFrame.md)
 - [Learning Journal from Class five](/Reading05.md)
 - [Learning Journal from Class six A](/Reading06a.md)
+- [Learning Journal from Class six B](/Reading06b.md)
